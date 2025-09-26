@@ -31,7 +31,7 @@ This will generate two files inside the Reports/ folder:
 Basic usage
 
 ```bash
-python3 scan_ios_unused.py --path . --output-dir Reports
+python3 scan_ios_unused.py --path /Users/you/Projects/MyApp --output-dir Reports
 ```
 Protect common assets
 ```bash
