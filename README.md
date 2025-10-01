@@ -37,10 +37,6 @@ Protect common assets
 ```bash
 python3 scan_ios_unused.py --protect AppIcon AccentColor LaunchScreen
 ```
-Exclude SwiftUI previews and coordinators
-```bash
-python3 scan_ios_unused.py --include-tests
-```
 
 ## Output Examples
 
